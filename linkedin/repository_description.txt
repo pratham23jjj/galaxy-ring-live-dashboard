@@ -1,1 +1,0 @@
-Working near-real-time Galaxy Ring analytics pipeline with live wearable event simulation, Bronze/Silver/Gold incremental processing, Fabric PySpark + Delta Lake notebooks, a Power BI-style live dashboard, Power BI-ready data/theme/DAX, automated tests, screenshots, and a recording kit.
