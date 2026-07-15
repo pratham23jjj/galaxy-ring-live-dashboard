@@ -1,0 +1,8 @@
+test_delete_event_propagates_to_silver (test_pipeline.IncrementalPipelineTests.test_delete_event_propagates_to_silver) ... ok
+test_gold_and_quality_tables_are_created (test_pipeline.IncrementalPipelineTests.test_gold_and_quality_tables_are_created) ... ok
+test_newer_update_wins_and_rerun_is_idempotent (test_pipeline.IncrementalPipelineTests.test_newer_update_wins_and_rerun_is_idempotent) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.045s
+
+OK

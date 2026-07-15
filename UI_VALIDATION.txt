@@ -1,0 +1,35 @@
+Galaxy Ring Live Analytics v2 — UI Validation
+==============================================
+
+Validated target viewport: 1440 × 900
+Default mode: Fit 1440×900
+
+Browser-rendered overview measurements:
+- window.innerWidth: 1440
+- window.innerHeight: 900
+- document.body.scrollWidth: 1440
+- document.body.scrollHeight: 900
+- main left: 228
+- main width: 1212
+- main right: 1440
+- horizontal overflow: none
+
+Application validation:
+- Python source compilation: PASS
+- Dash layout endpoint: PASS
+- Dash callback dependency graph: PASS (7 callbacks)
+- Overview callback: PASS (31 outputs)
+- Metric Explorer callback: PASS (7 outputs)
+- Pipeline Operations callback: PASS (8 outputs)
+- Incremental pipeline unit tests: PASS (3/3)
+
+Responsive safeguards:
+- Default fixed layout constants in ui_config.py
+- CSS reduction for viewports below 820px height
+- CSS reduction for viewports below 700px height
+- Automatic compact mode below 1280×780 in Auto mode
+- Responsive one-column and two-column breakpoints
+- Graphs use responsive Plotly sizing and stable UI revision keys
+
+Preview images are rendered from the actual dashboard figures and SQLite data.
+They are not AI-generated dashboard images.

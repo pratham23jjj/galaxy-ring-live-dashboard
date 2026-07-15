@@ -1,0 +1,14 @@
+Galaxy Ring Live Dashboard V2 - Hosting Validation
+Date: 2026-07-15
+
+PASS - Python source compilation
+PASS - Pipeline automated tests (3 passed)
+PASS - Gunicorn production server starts with one worker and four threads
+PASS - GET /healthz returns HTTP 200 and JSON status ok
+PASS - GET / returns HTTP 200
+PASS - Application reads Render's PORT environment variable
+PASS - SQLite storage path can be overridden with DATA_DIR
+PASS - Render Blueprint and Docker deployment files included
+
+Production command:
+gunicorn --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 120 app:server

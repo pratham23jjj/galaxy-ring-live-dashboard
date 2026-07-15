@@ -1,0 +1,10 @@
+services:
+  galaxy-ring-dashboard:
+    build: .
+    ports:
+      - "8050:8050"
+    environment:
+      START_SIMULATOR: "1"
+      SIM_INTERVAL: "2"
+    volumes:
+      - ./data:/app/data

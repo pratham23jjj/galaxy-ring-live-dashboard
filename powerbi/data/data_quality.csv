@@ -1,0 +1,127 @@
+check_id,check_time_utc,check_name,status,failed_rows,details
+1642872a-031b-462a-8d49-1ea6669a0060,2026-07-15T20:07:46Z,Unique business key,PASS,0,Silver record_id + metric_type
+f20d6b32-785f-4e65-a72c-1d95c5f08cbd,2026-07-15T20:07:46Z,Required fields,PASS,0,Required identifiers are populated
+ad0250f0-3c31-4ed1-a136-f97106d8d461,2026-07-15T20:07:46Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+1225ed4b-34ea-4691-a747-982e7dab0253,2026-07-15T20:07:46Z,Unique business key,PASS,0,Silver record_id + metric_type
+f0195bd4-d88c-4cf3-ab1c-46596affa26e,2026-07-15T20:07:46Z,Required fields,PASS,0,Required identifiers are populated
+cc1e26b5-e19c-4618-8fab-b0142092c4b2,2026-07-15T20:07:46Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+1f5a0930-77ce-4162-a12c-aee10f9b7380,2026-07-15T20:10:04Z,Unique business key,PASS,0,Silver record_id + metric_type
+95cf3b17-36a2-4a01-b78d-7fc048e1a778,2026-07-15T20:10:04Z,Required fields,PASS,0,Required identifiers are populated
+a9af835b-13aa-417c-bcd0-4a7a5eeb2660,2026-07-15T20:10:04Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+be6895eb-48e9-43e3-b6ca-ccf05d836c33,2026-07-15T20:10:10Z,Unique business key,PASS,0,Silver record_id + metric_type
+c76527f0-d5b0-41a4-8d4a-fb3af2889221,2026-07-15T20:10:10Z,Required fields,PASS,0,Required identifiers are populated
+fb646ec1-e13d-4929-8dd3-67373533e1c3,2026-07-15T20:10:10Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+1e8e96f7-71b2-41eb-9272-8730995a1494,2026-07-15T20:10:16Z,Unique business key,PASS,0,Silver record_id + metric_type
+3fb563f0-befa-4e4e-bc41-da1fc4749544,2026-07-15T20:10:16Z,Required fields,PASS,0,Required identifiers are populated
+4de4ef74-8f63-446d-beb9-f38c120db11f,2026-07-15T20:10:16Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+34952689-79cd-46e7-8f99-720fa5a50540,2026-07-15T20:10:22Z,Unique business key,PASS,0,Silver record_id + metric_type
+0fdb5de6-4e82-46fa-91d2-f8e8f857db1d,2026-07-15T20:10:22Z,Required fields,PASS,0,Required identifiers are populated
+c872ee64-1e8a-40b9-9a74-190bc48873ec,2026-07-15T20:10:22Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+757cd209-d4c2-4709-af94-aa33bfdc1785,2026-07-15T20:10:28Z,Unique business key,PASS,0,Silver record_id + metric_type
+9c101fe3-cc18-4e69-8042-f939765a5708,2026-07-15T20:10:28Z,Required fields,PASS,0,Required identifiers are populated
+72031753-a9d8-4011-9db2-98ab5cfeb336,2026-07-15T20:10:28Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+c2b2d8ec-7011-4dc3-b0f8-c7282ec5496d,2026-07-15T20:10:34Z,Unique business key,PASS,0,Silver record_id + metric_type
+dce6ec91-e018-4605-9717-e79a11d6d4a1,2026-07-15T20:10:34Z,Required fields,PASS,0,Required identifiers are populated
+6a74addf-1893-44cc-aa6a-4fae8bfc82f2,2026-07-15T20:10:34Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+b5e6b04f-2003-4564-9090-c0fc97ecc6e4,2026-07-15T20:10:40Z,Unique business key,PASS,0,Silver record_id + metric_type
+38224716-af53-4221-8e20-5529fdbbff6a,2026-07-15T20:10:40Z,Required fields,PASS,0,Required identifiers are populated
+2fea93e2-50a3-4c1f-8daf-4f1b60687f74,2026-07-15T20:10:40Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+855d51a9-82b9-42a6-823f-24a1e3cd30b9,2026-07-15T20:10:46Z,Unique business key,PASS,0,Silver record_id + metric_type
+d4f2b07c-ba2b-498c-9cf8-528eeafa3c9b,2026-07-15T20:10:46Z,Required fields,PASS,0,Required identifiers are populated
+595d1221-7187-47b9-9bc4-bd1090deb413,2026-07-15T20:10:46Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+a88ae5ca-c2bd-4c30-94e1-1f9164b171fb,2026-07-15T20:10:52Z,Unique business key,PASS,0,Silver record_id + metric_type
+80d26852-e4a9-4a2a-a477-3c447191af27,2026-07-15T20:10:52Z,Required fields,PASS,0,Required identifiers are populated
+e822b619-3c6d-4020-8afe-01c916868db2,2026-07-15T20:10:52Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+56d25217-4e9d-4574-af22-f9a4565c4a0f,2026-07-15T20:10:59Z,Unique business key,PASS,0,Silver record_id + metric_type
+f6bbaeae-63ae-4b78-8bde-afe215e62216,2026-07-15T20:10:59Z,Required fields,PASS,0,Required identifiers are populated
+a1aa74fa-3049-4a7e-ae5f-aeb9cd75c5d8,2026-07-15T20:10:59Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+ed1dfa1c-a5ea-45eb-89b9-9761f79afcf2,2026-07-15T20:11:05Z,Unique business key,PASS,0,Silver record_id + metric_type
+ce72726e-6688-47ba-960b-6a26f3783edc,2026-07-15T20:11:05Z,Required fields,PASS,0,Required identifiers are populated
+d6fd3688-247b-414d-bc1f-025d01e3c908,2026-07-15T20:11:05Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+781e3fc7-a220-49e9-83e4-d3e4b1bc61eb,2026-07-15T20:11:11Z,Unique business key,PASS,0,Silver record_id + metric_type
+2f866683-9137-4b65-8c28-e1d9c47abcdc,2026-07-15T20:11:11Z,Required fields,PASS,0,Required identifiers are populated
+fc6d9c3b-523d-43cb-bd37-0314952f0242,2026-07-15T20:11:11Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+639c1a04-c8c6-41e7-b7fd-6c93e9055269,2026-07-15T20:11:17Z,Unique business key,PASS,0,Silver record_id + metric_type
+d8db1974-65c8-457e-a051-1952abd936d9,2026-07-15T20:11:17Z,Required fields,PASS,0,Required identifiers are populated
+e1f5e81b-565e-4d19-b992-22fc579f428b,2026-07-15T20:11:17Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+39cd856d-7456-45fe-8cab-d0d7f7017b0c,2026-07-15T20:11:23Z,Unique business key,PASS,0,Silver record_id + metric_type
+ed1a7780-57fc-44e9-bba9-d9dbfd892221,2026-07-15T20:11:23Z,Required fields,PASS,0,Required identifiers are populated
+2840b6d6-4f07-47a2-b0d1-0d998f2cf0fe,2026-07-15T20:11:23Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+a7374904-d83d-43d8-97c4-7f9e34a6fdf5,2026-07-15T20:11:29Z,Unique business key,PASS,0,Silver record_id + metric_type
+29842b98-8973-4c20-9022-b5077ddcca59,2026-07-15T20:11:29Z,Required fields,PASS,0,Required identifiers are populated
+0407597a-5fc4-4057-bf5a-814491b62f7f,2026-07-15T20:11:29Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+90980f65-f7e6-4b5e-a8ca-7f3855193c06,2026-07-15T20:11:35Z,Unique business key,PASS,0,Silver record_id + metric_type
+7477d557-de26-45aa-981d-5549ab47745c,2026-07-15T20:11:35Z,Required fields,PASS,0,Required identifiers are populated
+c00156e6-bbfe-41a4-9593-6fadb39caac8,2026-07-15T20:11:35Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+0aa5701a-fe6a-4510-9905-f552f3436503,2026-07-15T20:11:41Z,Unique business key,PASS,0,Silver record_id + metric_type
+2069f1af-a1f4-488c-b375-bdee62bffcde,2026-07-15T20:11:41Z,Required fields,PASS,0,Required identifiers are populated
+25bb5a30-e8b7-4257-a5b1-e5fe209166b3,2026-07-15T20:11:41Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+fe1a3828-c919-4d04-af4b-bc7c10f26418,2026-07-15T20:11:47Z,Unique business key,PASS,0,Silver record_id + metric_type
+d0f653f4-8fed-4526-8603-3ef3fa31a107,2026-07-15T20:11:47Z,Required fields,PASS,0,Required identifiers are populated
+6ff79b41-3785-46d3-905d-0f687b84bb9c,2026-07-15T20:11:47Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+deff0c8a-074f-4389-9679-3fcbea8ffe0c,2026-07-15T20:11:53Z,Unique business key,PASS,0,Silver record_id + metric_type
+d5fbdd8c-70e7-42db-9c3c-509f01a1d006,2026-07-15T20:11:53Z,Required fields,PASS,0,Required identifiers are populated
+7b88fc06-1969-4718-80d6-e8c6e477e848,2026-07-15T20:11:53Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+70bb1001-1bbb-42e0-b343-16aaada291a3,2026-07-15T20:11:59Z,Unique business key,PASS,0,Silver record_id + metric_type
+4e0ed42c-c4a9-4120-b647-2b11c58f045e,2026-07-15T20:11:59Z,Required fields,PASS,0,Required identifiers are populated
+241f1891-2471-4723-be28-c1384626d970,2026-07-15T20:11:59Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+f9509124-8c2a-45e7-88e4-03041c9cb271,2026-07-15T20:12:05Z,Unique business key,PASS,0,Silver record_id + metric_type
+14f35510-680d-47f1-bd1e-95fdf7f41027,2026-07-15T20:12:05Z,Required fields,PASS,0,Required identifiers are populated
+17249092-1189-43a7-9886-1ce3d60d1cfa,2026-07-15T20:12:05Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+0c8426bc-7353-47b4-98d3-f0fe54c3c051,2026-07-15T20:12:11Z,Unique business key,PASS,0,Silver record_id + metric_type
+390fbca2-8705-4fd1-8562-6b0f516aacb1,2026-07-15T20:12:11Z,Required fields,PASS,0,Required identifiers are populated
+31ec5cd7-9a25-4146-8e21-7a4f0fd8e087,2026-07-15T20:12:11Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+4a1b39ed-e96a-45bc-89e0-30aa9b9f15c8,2026-07-15T20:12:17Z,Unique business key,PASS,0,Silver record_id + metric_type
+1c31d91f-d881-4529-abc1-e46ba65b88a7,2026-07-15T20:12:17Z,Required fields,PASS,0,Required identifiers are populated
+da27a70a-9c52-47fb-8d0e-102818c67573,2026-07-15T20:12:17Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+2460a608-9d9a-461c-a73f-dbbec305ffc9,2026-07-15T20:12:23Z,Unique business key,PASS,0,Silver record_id + metric_type
+1635fc70-511f-407e-91d7-e86b2ba56eaf,2026-07-15T20:12:23Z,Required fields,PASS,0,Required identifiers are populated
+8b455438-4b84-4c22-8cf1-99a86e1140af,2026-07-15T20:12:23Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+6fb93de0-9622-4eb5-b1cb-dae43d379bd2,2026-07-15T20:12:29Z,Unique business key,PASS,0,Silver record_id + metric_type
+b8684986-d33f-423c-9848-f30f833efe88,2026-07-15T20:12:29Z,Required fields,PASS,0,Required identifiers are populated
+f6346444-709a-4265-abda-e73eade97070,2026-07-15T20:12:29Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+6fde41c9-3a00-47fe-899a-7f96814e110e,2026-07-15T20:12:35Z,Unique business key,PASS,0,Silver record_id + metric_type
+48bd7248-635f-4961-b767-76b791c2c2af,2026-07-15T20:12:35Z,Required fields,PASS,0,Required identifiers are populated
+069569c9-fad3-44a6-bf7b-ab205d524c2d,2026-07-15T20:12:35Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+a1432176-e71a-4542-a5d2-cd1384fd5d69,2026-07-15T20:12:41Z,Unique business key,PASS,0,Silver record_id + metric_type
+bb7a40ac-629d-4b58-87e5-5c18e13a6822,2026-07-15T20:12:41Z,Required fields,PASS,0,Required identifiers are populated
+fd5c7c39-30fc-45c4-8eb4-8dea16a58fb0,2026-07-15T20:12:41Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+fe71ceda-66c6-44c5-9568-c72e87e500b3,2026-07-15T20:12:47Z,Unique business key,PASS,0,Silver record_id + metric_type
+e9491cf5-5347-4b97-88f6-d7001dbd5e33,2026-07-15T20:12:47Z,Required fields,PASS,0,Required identifiers are populated
+18c16a0f-4cfb-496e-8fd3-3a54cc86a4f1,2026-07-15T20:12:47Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+200764aa-d8fb-4bc7-b831-8e8df7f4d769,2026-07-15T20:12:53Z,Unique business key,PASS,0,Silver record_id + metric_type
+3e7ad41a-44c8-4a78-a051-b7cf22cad395,2026-07-15T20:12:53Z,Required fields,PASS,0,Required identifiers are populated
+6f6a3a30-14d6-4a89-9d01-d123f14b6368,2026-07-15T20:12:53Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+c5f4796a-f160-4d7c-b6cc-6bd65eac4c90,2026-07-15T20:12:59Z,Unique business key,PASS,0,Silver record_id + metric_type
+9262d388-9ee5-4b7d-a701-737d8b68d00e,2026-07-15T20:12:59Z,Required fields,PASS,0,Required identifiers are populated
+f662164d-e5dc-447e-bb4d-a4b830b69615,2026-07-15T20:12:59Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+e89e90b7-3d34-4b28-b4ce-302111066433,2026-07-15T20:13:05Z,Unique business key,PASS,0,Silver record_id + metric_type
+61432da2-6737-4db3-b0bb-bc189e71f062,2026-07-15T20:13:05Z,Required fields,PASS,0,Required identifiers are populated
+380d2e51-d2d2-4d1e-893a-baa05c5f01bd,2026-07-15T20:13:05Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+31665a8b-02bd-45a7-9b95-a5bf616763fc,2026-07-15T20:13:11Z,Unique business key,PASS,0,Silver record_id + metric_type
+30b23b4f-6b52-4b58-823f-5de32c7f2da9,2026-07-15T20:13:11Z,Required fields,PASS,0,Required identifiers are populated
+fb800fc7-03f9-4d58-91d4-39f3c7d09717,2026-07-15T20:13:11Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+be4d65c7-f0c0-42ee-a67b-890b04489fdf,2026-07-15T20:13:17Z,Unique business key,PASS,0,Silver record_id + metric_type
+359144a6-8042-4220-96c8-dd2df8298abc,2026-07-15T20:13:17Z,Required fields,PASS,0,Required identifiers are populated
+8a11c3e2-4959-4987-8ff8-b88007a350c1,2026-07-15T20:13:17Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+0943d7ab-62ae-40a0-bdd1-ad9802e885b5,2026-07-15T20:13:23Z,Unique business key,PASS,0,Silver record_id + metric_type
+03dff740-274d-49c7-b43e-55ea986da4f7,2026-07-15T20:13:23Z,Required fields,PASS,0,Required identifiers are populated
+2e8628f7-e807-41e9-999f-00848fd0834c,2026-07-15T20:13:23Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+e6bf65c5-50fd-4b74-a39b-e1d5f26c0c7f,2026-07-15T20:13:29Z,Unique business key,PASS,0,Silver record_id + metric_type
+1764ee58-a10e-4013-aad1-dfdddf7e208a,2026-07-15T20:13:29Z,Required fields,PASS,0,Required identifiers are populated
+3141fc56-8e6c-4b62-a898-aa3ddcd29941,2026-07-15T20:13:29Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+b0ab68a1-573a-4db3-b401-39799a19d25b,2026-07-15T20:13:35Z,Unique business key,PASS,0,Silver record_id + metric_type
+adbb8089-2e52-49ef-ab59-83737c442cf9,2026-07-15T20:13:35Z,Required fields,PASS,0,Required identifiers are populated
+03b72589-6065-496b-b620-b5c777c81055,2026-07-15T20:13:35Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+750bd6cc-24d8-4b6a-919b-d7bd30aed90f,2026-07-15T20:13:41Z,Unique business key,PASS,0,Silver record_id + metric_type
+7e9f5a0a-4d07-4940-b43b-53f776767f33,2026-07-15T20:13:41Z,Required fields,PASS,0,Required identifiers are populated
+d95b1f57-c8c5-4921-a1ca-6dddf68beab4,2026-07-15T20:13:41Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+d7ea2fac-65de-403f-aef4-8224e21dc87d,2026-07-15T20:13:47Z,Unique business key,PASS,0,Silver record_id + metric_type
+47db148d-27eb-487e-8083-f05be9ad6d23,2026-07-15T20:13:47Z,Required fields,PASS,0,Required identifiers are populated
+e8b06097-521f-4726-9ebd-92b4f285c61b,2026-07-15T20:13:47Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+b656cc5d-a4df-4f56-bc89-8f1d1a0e12f8,2026-07-15T20:13:53Z,Unique business key,PASS,0,Silver record_id + metric_type
+404f8730-d9df-409f-b4ef-1635fc5db3ff,2026-07-15T20:13:53Z,Required fields,PASS,0,Required identifiers are populated
+bc7a698b-066b-49b1-9b75-87d97f544d2a,2026-07-15T20:13:53Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice
+ec73388e-2ba4-4d20-9861-ef5aee047c17,2026-07-15T20:18:44Z,Unique business key,PASS,0,Silver record_id + metric_type
+fc967f15-252d-4a2d-bb10-6a4b7ad6b19c,2026-07-15T20:18:44Z,Required fields,PASS,0,Required identifiers are populated
+c38c0982-3e8c-461b-842d-3e8eb8e4f40c,2026-07-15T20:18:44Z,Broad value plausibility,PASS,0,Engineering guardrails; not clinical advice

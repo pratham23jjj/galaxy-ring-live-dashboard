@@ -1,0 +1,72 @@
+{
+  "name": "Galaxy Ring Live Analytics",
+  "dataColors": [
+    "#28A8FF",
+    "#20E3FF",
+    "#7C6CFF",
+    "#3CE18C",
+    "#FFB547",
+    "#FF627D",
+    "#9DB0D0"
+  ],
+  "background": "#06101F",
+  "foreground": "#EAF4FF",
+  "tableAccent": "#28A8FF",
+  "visualStyles": {
+    "*": {
+      "*": [
+        {
+          "background": {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#0A1A30"
+              }
+            },
+            "transparency": 0
+          },
+          "border": {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#1D3A60"
+              }
+            },
+            "radius": 12
+          },
+          "title": {
+            "show": true,
+            "fontColor": {
+              "solid": {
+                "color": "#DCEAFF"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          },
+          "labels": {
+            "color": {
+              "solid": {
+                "color": "#DCEAFF"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#06101F"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

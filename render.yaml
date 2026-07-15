@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: galaxy-ring-live-dashboard
+    runtime: docker
+    plan: free
+    region: virginia
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /healthz
+    autoDeployTrigger: commit
+    envVars:
+      - key: START_SIMULATOR
+        value: "1"
+      - key: SIM_INTERVAL
+        value: "2"
+      - key: PYTHONUNBUFFERED
+        value: "1"
